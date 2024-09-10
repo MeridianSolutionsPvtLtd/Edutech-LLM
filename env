@@ -1,0 +1,15 @@
+AZURE_FACE_API_KEY=ec3915cb127441d7a813644ab9b2df26
+AZURE_FACE_API_ENDPOINT=https://faceapp-ai.cognitiveservices.azure.com/
+AZURE_FACE_API_SUBSCRIPTION_KEY=59c5bc20ffec4ce69509923c669c8879
+AZURE_FACE_API_FACELIST_ID=my_face_list
+ 
+MONGODB_URI=mongodb+srv://Meridian:nzBKUY7IwRHypXFl@edutech.xbbq1.mongodb.net/?retryWrites=true&w=majority&appName=EduTech
+ 
+ 
+BLOB_CONNECTION_STRING="DefaultEndpointsProtocol=https;AccountName=edutech;AccountKey=UZWft92aoK5EAtErlB/U5vTRUcWhP1W6AnEzAAKAjILOp75KeJMVnn8uAOIwDtfI0hmeadA5HyN7+AStgpir7w==;EndpointSuffix=core.windows.net"
+CONTAINER_NAME_FACE=faceapi
+CONTAINER_NAME_EMB=embeddings
+ 
+AUTH_SECRET_KEY=ShawShanRedemption
+PASSWORD=ThisIsMyPersonalSecretPassword
+ 
